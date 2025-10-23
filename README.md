@@ -1,40 +1,75 @@
-<h1 align="center">Salut, moi c’est Godwin 👋 <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"></h1>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Salut+les+amis,+Amusons-nous+à+coder!)](https://git.io/typing-svg)
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/ton-lien-linkedin/">
-   <img src="https://img.icons8.com/color/48/000000/linkedin.png" width="3.5%"/>
-    </a><span>&nbsp;</span>
-  <a href="https://twitter.com/ton-compte-twitter">
-    <img src="https://img.icons8.com/color/48/000000/twitter.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
-  <a href="https://www.instagram.com/ton-compte-insta/">
-    <img src="https://img.icons8.com/fluent/48/000000/instagram-new.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
-  <a href="mailto:aristidemakou29@gmail.com">
-    <img src="https://img.icons8.com/fluent/48/000000/gmail.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
-  <a href="https://github.com/Godwin-AKAKPO">
-    <img src="https://img.icons8.com/fluent/48/000000/github.png" width="3.5%"/>
-  </a><span>&nbsp;</span>
+  <img width="1200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</p>  
+
+<h2 align="center">Salut à tous 👋, je suis Godwin AKAKPO !</h2>
+
+---
+
+## 💻 Stack Technique
+
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Qt](https://img.shields.io/badge/Qt-41CD52?style=flat-square&logo=qt&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 👨🏻‍💻 À propos de moi
+
+🎓 &nbsp;Étudiant en **deuxième année de Génie Logiciel** à l’**IFRI (Université d’Abomey-Calavi)**.  
+💡 &nbsp;Je suis passionné par le **développement web, mobile et desktop**.  
+⚙️ &nbsp;Actuellement, j’apprends à maîtriser **Laravel** (back-end) et **Qt/C++** (applications de bureau).  
+🚀 &nbsp;Je rêve de créer des solutions logicielles qui changent la vie des gens.  
+📚 &nbsp;Je suis curieux, rêveur, un peu timide, mais toujours prêt à aider.  
+💬 &nbsp;N’hésite pas à me contacter pour discuter, collaborer ou apprendre ensemble !  
+✉️ &nbsp;Email : **aristidemakou29@gmail.com**  
+📱 &nbsp;WhatsApp : **+229 46176642**
+
+---
+
+## 📊 Mes Statistiques GitHub
+
+![](https://github-readme-stats.vercel.app/api?username=Godwin-AKAKPO&show_icons=true&theme=tokyonight)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Godwin-AKAKPO&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Godwin-AKAKPO&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+---
+
+## 🌐 Me retrouver sur
+
+<p>
+    <a href="https://www.linkedin.com/in/ton-lien-linkedin/">
+        <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35>
+    </a> 
+    <a href="https://twitter.com/ton-compte-twitter">
+        <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=35>
+    </a> 
+    <a href="https://www.instagram.com/ton-compte-insta/">
+        <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=35>
+    </a>
+    <a href="https://github.com/Godwin-AKAKPO">
+        <img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" height=35>
+    </a>
 </p>
 
-<h3 align="center">Étudiant en deuxième année de Génie Logiciel à l'IFRI (UAC), passionné par la technologie, le développement web et mobile, et actuellement en apprentissage du framework Laravel et du développement en C++/Qt.</h3>
+---
 
-<br>
+<img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
 
-<p align="center">
-  <a href="https://github.com/Godwin-AKAKPO">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godwin-AKAKPO&hide=ASP.NET,jupyter%20notebook&theme=dark&hide_langs_below=1" height="220px"/>
-  </a>
-  <a href="https://github.com/Godwin-AKAKPO">
-   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Godwin-AKAKPO&count_private=true&hide=stars&show_icons=true&theme=dark&line_height=27" alt="Statistiques GitHub de Godwin" height="220px" />
-  </a>
-</p>
+---
 
 ![visiteurs](https://visitor-badge.laobi.icu/badge?page_id=Godwin-AKAKPO)
 
-------
+----
 
-Crédits : [chakravarthi-v](https://github.com/chakravarthi-v)
-  
+Crédit : [codeoxygen](https://github.com/codeoxygen)  
 Dernière modification : 23/10/2025
