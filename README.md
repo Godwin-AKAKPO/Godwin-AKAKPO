@@ -25,14 +25,15 @@
 
 ## 👨🏻‍💻 À propos de moi
 
-🎓 &nbsp;Étudiant en **deuxième année de Génie Logiciel** à l’**IFRI (Université d’Abomey-Calavi)**.  
-💡 &nbsp;Je suis passionné par le **développement web, mobile et desktop**.  
-⚙️ &nbsp;Actuellement, j’apprends à maîtriser **Laravel** (back-end) et **Qt/C++** (applications de bureau).  
-🚀 &nbsp;Je rêve de créer des solutions logicielles qui changent la vie des gens.  
+🎓 &nbsp;Étudiant en **troisième année de Génie Logiciel** à l’**IFRI (Université d’Abomey-Calavi)**.  
+💡 &nbsp;Je suis passionné par le **développement informatique ainsi que par l'IA et la Data**.  
+⚙️ &nbsp;J'ai des compétences en **Laravel, Express.js, FastApi, Vue.js, Javascript, Python, C++, et Typescript**. 
+⚙️ &nbsp;Actuellement, j’apprends à maîtriser **Flutter** (Mobile) et **Analyse de DOnnées avec Python**. 
+🚀 &nbsp;Je rêve de créer des solutions logicielles intelligentes qui changent la vie des gens.  
 📚 &nbsp;Je suis curieux, rêveur, un peu timide, mais toujours prêt à aider.  
 💬 &nbsp;N’hésite pas à me contacter pour discuter, collaborer ou apprendre ensemble !  
-✉️ &nbsp;Email : **aristidemakou29@gmail.com**  
-📱 &nbsp;WhatsApp : **+229 46176642**
+✉️ &nbsp;Email : **mouyiwaakakpo@gmail.com**  
+📱 &nbsp;WhatsApp : **+229 0167109440**
 
 ---
 
@@ -50,12 +51,12 @@
     <a href="https://www.linkedin.com/in/ton-lien-linkedin/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35>
     </a> 
-    <a href="https://twitter.com/ton-compte-twitter">
+    <!-- <a href="https://twitter.com/ton-compte-twitter">
         <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" height=35>
-    </a> 
-    <a href="https://www.instagram.com/ton-compte-insta/">
+    </a>  -->
+    <!-- <a href="https://www.instagram.com/ton-compte-insta/">
         <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" height=35>
-    </a>
+    </a> -->
     <a href="https://github.com/Godwin-AKAKPO">
         <img src="https://img.shields.io/badge/github-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white" height=35>
     </a>
@@ -71,5 +72,3 @@
 
 ----
 
-Crédit : [codeoxygen](https://github.com/codeoxygen)  
-Dernière modification : 23/10/2025
