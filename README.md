@@ -46,11 +46,14 @@
 
 ## 📊 Mes Statistiques GitHub
 
-![](https://github-readme-stats.vercel.app/api?username=Godwin-AKAKPO&show_icons=true&theme=tokyonight)
-![](https://github-readme-streak-stats.herokuapp.com/?user=Godwin-AKAKPO&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Godwin-AKAKPO&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Godwin-AKAKPO&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Godwin-AKAKPO&theme=tokyonight&hide_border=false&count_private=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Godwin-AKAKPO&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+![Contributions](https://badgen.org/img/gh/contributions/Godwin-AKAKPO?color=blue&label=Total%20Contributions)
 
 ---
+
 
 ## 🌐 Me retrouver sur
 
