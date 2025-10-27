@@ -1,3 +1,9 @@
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Salut+les+amis,+Amusons-nous+à+coder!)](https://git.io/typing-svg)
+
+<p align="center">
+  <img width="1200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
+</p>  
+
 <div align="center">
 
   <img src="undraw_programming_re_kg9v.svg" width="400" />
@@ -115,11 +121,7 @@ if __name__ == '__main__':
 📞 <strong>WhatsApp :</strong> <a href="https://wa.me/2290167109440">+229 01 67 10 94 40</a>
 </p>
 
----
 
-Thanks for stopping by! Let's connect and explore the fascinating world of technology together. 🚀
-
----
 
 <div align="center">
 
