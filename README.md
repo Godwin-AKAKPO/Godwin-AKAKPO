@@ -1,13 +1,10 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Salut+les+amis,+Amusons-nous+à+coder!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?multiline=true&width=500&lines=Bienvenue+sur+mon+profil+github+!)](https://git.io/typing-svg)
 
 <p align="center">
   <img width="1200" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 </p>  
 
 <div align="center">
-
-  <img src="undraw_programming_re_kg9v.svg" width="400" />
-
   <h3 align="center">Hey there, I'm <a href="#">Godwin AKAKPO</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
   <p align="center">
@@ -52,7 +49,7 @@ if __name__ == '__main__':
 
   <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack</h2>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,python,cpp,laravel,vuejs,expressjs,fastapi,mysql,postgresql)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,python,cpp,c,laravel,vuejs,expressjs,fastapi,postgresql,mongodb,insomnia)](https://skillicons.dev)
 
 </div>
 
@@ -89,24 +86,20 @@ if __name__ == '__main__':
 
 ---
 
+
+
 <div align="center">
-
   <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Statistics</h2>
-
-  <img src="https://github-readme-stats.vercel.app/api?username=Godwin-AKAKPO&theme=dark&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&show_icons=true&include_all_commits=true&count_private=true" width="500" />
-
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=Godwin-AKAKPO&theme=dark&hide_border=true&ring=FEFE5B&currStreakLabel=FEFE5B" width="500" />
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Godwin-AKAKPO&theme=dark&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&layout=compact" width="500" />
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Godwin-AKAKPO&theme=dark&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&show_icons=true&include_all_commits=true&count_private=true" width="500" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Godwin-AKAKPO&theme=dark&hide_border=true&type=svg&background=dark&ring=FEFE5B&currStreakLabel=FEFE5B" width="500" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Godwin-AKAKPO&theme=dark&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&layout=compact" width="500" />
 </div>
+
 
 ---
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
-
 <h2 align="center">📬 Get in Touch</h2>
-
 <p align="center">
     <a href="https://www.linkedin.com/in/godwin-akakpo/">
         <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=35>
@@ -119,7 +112,7 @@ if __name__ == '__main__':
 <p align="center">
 📩 <strong>Email :</strong> <a href="mailto:mouyiwaakakpo@gmail.com">mouyiwaakakpo@gmail.com</a><br>
 📞 <strong>WhatsApp :</strong> <a href="https://wa.me/2290167109440">+229 01 67 10 94 40</a>
-</p>
+</p> -->
 
 
 
