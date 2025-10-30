@@ -49,7 +49,7 @@ if __name__ == '__main__':
 
   <h2 align="center"><img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="25"> Tech Stack</h2>
 
-  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,python,cpp,c,,dart,lua,laravel,vuejs,expressjs,fastapi,postgresql,mongodb,insomnia,git,github)](https://skillicons.dev)
+  [![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,php,mysql,python,cpp,c,dart,lua,laravel,vuejs,expressjs,fastapi,postgresql,mongodb,insomnia,git,github)](https://skillicons.dev)
 
 </div>
 
