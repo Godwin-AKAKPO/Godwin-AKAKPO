@@ -88,12 +88,12 @@ if __name__ == '__main__':
 
 
 
-<div align="center">
+<!-- <div align="center">
   <h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"> Statistics</h2>
   <img src="https://github-readme-stats.vercel.app/api?username=Godwin-AKAKPO&theme=dark&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&show_icons=true&include_all_commits=true&count_private=true" width="500" />
   <img src="https://github-readme-streak-stats.herokuapp.com?user=Godwin-AKAKPO&theme=dark&hide_border=true&type=svg&background=dark&ring=FEFE5B&currStreakLabel=FEFE5B" width="500" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Godwin-AKAKPO&theme=dark&hide_border=true&title_color=FEFE5B&text_color=FFFFFF&icon_color=FEFE5B&text_bold=false&layout=compact" width="500" />
-</div>
+</div> -->
 
 
 ---
