@@ -111,7 +111,7 @@ if __name__ == '__main__':
 
 <p align="center">
 📩 <strong>Email :</strong> <a href="mailto:mouyiwaakakpo@gmail.com">mouyiwaakakpo@gmail.com</a><br>
-📞 <strong>WhatsApp :</strong> <a href="https://wa.me/2290167109440">+229 01 67 10 94 40</a>
+📞 <strong>WhatsApp :</strong> <a href="https://wa.me/2290167109440">+229 67 10 94 40</a>
 </p> -->
 
 
