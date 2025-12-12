@@ -97,10 +97,10 @@ if __name__ == '__main__':
 
 
 ---
-![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=Godwin-AKAKPO&show_icons=true)
 
 ---
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact)
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godwin-AKAKPO&layout=compact)
 
 ---
 
