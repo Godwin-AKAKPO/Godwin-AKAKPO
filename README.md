@@ -97,7 +97,11 @@ if __name__ == '__main__':
 
 
 ---
-![Graph](https://github-readme-activity-graph.vercel.app/graph?username=Godwin-AKAKPO)
+![Stats](https://github-readme-stats.vercel.app/api?username=TON_USERNAME&show_icons=true)
+
+---
+![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TON_USERNAME&layout=compact)
+
 ---
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
