@@ -97,12 +97,11 @@ if __name__ == '__main__':
 
 
 ---
-![Stats](https://github-readme-stats.vercel.app/api?username=Godwin-AKAKPO&show_icons=true)
+![Stats](https://github-readme-stats-one-bice.vercel.app/api?username=Godwin-AKAKPO&show_icons=true)
 
----
-![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Godwin-AKAKPO&layout=compact)
+![Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Godwin-AKAKPO&layout=compact)
 
----
+--
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
 <h2 align="center">📬 Get in Touch</h2>
