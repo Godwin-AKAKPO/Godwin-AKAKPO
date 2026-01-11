@@ -79,7 +79,7 @@ if __name__ == '__main__':
 
 - 🚀 Learning Full-Stack Development
   - Building server-side applications with **Laravel**, **Express.js**, and **FastAPI**.
-  - Creating dynamic front-end experiences with **Vue.js** and modern JavaScript frameworks.
+  - Creating dynamic front-end experiences with **Vue.js** and modern JavaScript frameworks like **React.js**.
   - Diving into **Flutter** for cross-platform mobile development.
   - Leveraging **MySQL** and **PostgreSQL** for efficient and scalable database management.
   - Exploring **Data Analysis with Python** and **Machine Learning**.
