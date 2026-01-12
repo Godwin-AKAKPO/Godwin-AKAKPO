@@ -5,7 +5,7 @@
 </p>  
 
 <div align="center">
-  <h3 align="center">Hey there, I'm <a href="#">Godwin AKAKPO</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
+  <h3 align="center">Hey, I'm <a href="#">Godwin AKAKPO</a> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
   <p align="center">
   <a href="#"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=25&center=true&vCenter=true&width=600&height=100&lines=Software+Engineering+Student,;Backend+Developer,;AI+%26+Data+Science+Enthusiast,;Active+Learner/Researcher,;Love+to+learn+new+stuffs"></a>
