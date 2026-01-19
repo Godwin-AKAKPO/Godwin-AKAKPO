@@ -59,11 +59,13 @@ if __name__ == '__main__':
 
 ---
 
-* 🔭 I’m a **third-year Software Engineering student** at the **Institute of Training and Research in Computer Science (IFRI)** of the **University of Abomey-Calavi**.
+_* 🔭 I’m a **third-year Software Engineering student** at the **Institute of Training and Research in Computer Science (IFRI)** of the **University of Abomey-Calavi**.
 
 * 💡 Passionate about **software development**, **artificial intelligence**, and **data science**, I love turning ideas into useful and elegant technological solutions.
 
 * ⚙️ I’m skilled in several technologies, including **Laravel**, **Express.js**, **FastAPI**, **Vue.js**, **JavaScript**, **Python**, **C++**, and **TypeScript**.
+
+* 🗄️ I also hold a **Relational Database Certification** from **freeCodeCamp**, with solid knowledge in **SQL**, **database design**, and **data modeling**.
 
 * 📱 I’m currently improving my skills in **mobile development with Flutter** and **data analysis using Python**.
 
@@ -71,7 +73,7 @@ if __name__ == '__main__':
 
 * 🌱 Curious, persistent, and a bit of a dreamer, I enjoy learning every day and sharing my knowledge.
 
-* 🤝 Always open to **collaborations** and **constructive exchanges**.
+* 🤝 Always open to **collaborations** and **constructive exchanges**._
 
 ---
 
