@@ -103,7 +103,7 @@ _* 🔭 I’m a **third-year Software Engineering student** at the **Institute o
 
 ![Langs](https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Godwin-AKAKPO&layout=compact)
 
---
+---
 
 <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
 <h2 align="center">📬 Get in Touch</h2>
@@ -119,7 +119,7 @@ _* 🔭 I’m a **third-year Software Engineering student** at the **Institute o
 <p align="center">
 📩 <strong>Email :</strong> <a href="mailto:mouyiwaakakpo@gmail.com">mouyiwaakakpo@gmail.com</a><br>
 📞 <strong>WhatsApp :</strong> <a href="https://wa.me/2290167109440">+229 67 10 94 40</a>
-</p> -->
+</p> 
 
 
 
