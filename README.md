@@ -18,7 +18,7 @@
 <div align="center">
 
 [![Committers.top badge](https://user-badge.committers.top/benin_private/Godwin-AKAKPO.svg)](https://committers.top/benin_private)
-**40e contributeur GitHub le plus actif au Bénin**
+**16e contributeur GitHub le plus actif au Bénin**
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=Godwin-AKAKPO&label=Profile%20views&color=0e75b6&style=flat" alt="Godwin-AKAKPO" /> </p>
 
